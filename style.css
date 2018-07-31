@@ -75,11 +75,13 @@ h3 {
 .btn-primary {
 	background-color: #002244;
 	border: 2px solid #69BE28;
+	-moz-border: 2px solid #69BE28;
 }
 
 .btn:hover {
 	background-color: #69BE28;
 	border: 2px solid #002244;
+	-moz-border: 2px solid #002244;
 }
 
 .footer {
