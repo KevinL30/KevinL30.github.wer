@@ -94,5 +94,5 @@ h3 {
 }
 
 #mc_embed_signup {
-	text-align: center;
+	text-align: center !important;
 }
